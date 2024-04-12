@@ -1,8 +1,18 @@
-# React + Vite
+# GiftExperApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es mi repositorio del proyecto de giftExperApp de react
 
-Currently, two official plugins are available:
+ESte es mi primer proyecto creado con react.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+#Run the Proyecto
+Una vez descargado el repositorio hacer lo siguiente:
+
+npm install
+yarn innstall 
+
+Esto lo que hará es descargar todas las dependencias para su ejecución.
+
+
+Espero les guste.
+
